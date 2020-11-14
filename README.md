@@ -1,2 +1,2 @@
-# web-development-tsu
+# web-development-tsu-
 Репозиторий курсов "Разработка веб-приложений"
